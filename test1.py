@@ -17,10 +17,10 @@ driver = webdriver.Chrome()  # Ensure that the ChromeDriver is in your PATH or s
 API_KEY = '269dfa478e96b9f7aee704a07c902539'
 
 # Fixed password for all accounts
-PASSWORD = 'Lollol132'
+PASSWORD = 'YOUR_OWN_PASS'
 
 # Base username
-BASE_USERNAME = 'Twichpor'
+BASE_USERNAME = 'YOUR_USERNAME' 
 
 # Path to the file to store the tried usernames
 TRIED_USERNAMES_FILE = 'tried_usernames.txt'
